@@ -1,0 +1,7 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}Dizzle game developed by Kobra Rahimi ite102770 for advanced programming course for Summer Semester 2020
+<#if licenseLast??>
+${licenseLast}
+</#if>
